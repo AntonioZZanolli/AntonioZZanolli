@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning about SQL, Django and Python.
+:books: I’m currently learning about SQL, Python and the framework Django.
 
 :outbox_tray: 2021 Goals: create a lot of new projects and find a new job.
 
