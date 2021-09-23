@@ -21,7 +21,7 @@
 
 ## Tools and languages:
 
-![AntonioZZanolli's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioZZanolli&show_icons=true&theme=dark)
+![AntonioZZanolli's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioZZanolli&show_icons=true&theme=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioZZanolli)](https://github.com/AntonioZZanolli/github-readme-stats)
 
 
