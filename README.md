@@ -10,9 +10,9 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning about SQL, C# and the PHP framework Cake.
+:books: I’m currently learning about SQL, C#, PHP, JavaScript, CSS and HTML.
 
-:outbox_tray: 2022 Goals: create a lot of new projects and find a new job.
+:outbox_tray: 2022 Goals: create a lot of new projects, learn a lot and find a job.
 
 ## About me
 
