@@ -25,4 +25,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioZZanolli)](https://github.com/AntonioZZanolli/github-readme-stats)
 
 
+![AntonioZZanolli](https://komarev.com/ghpvc/?username=AntonioZZanolli)
 ### Thanks for visiting and I hope you like what you find.
+
+
+![](https://hit.yhype.me/github/profile?user_id=90483450)
