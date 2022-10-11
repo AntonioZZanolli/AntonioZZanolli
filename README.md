@@ -6,17 +6,16 @@
 
  
 
-:computer: I'm Back-End Developer!
+:computer: I'm a Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Brazil, Santa Catarina.
 
-:books: I’m currently learning about SQL, C#, PHP, JavaScript, CSS and HTML.
+:books: I’m currently learning about Java, JavaScript, React, CSS and HTML.
 
-:outbox_tray: 2022 Goals: create a lot of new projects, learn a lot and find a job.
+:outbox_tray: 2022 Goals: I want to Learn more and read more books about programming .
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/AntonioZZanolli)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-zilli-zanolli-6a7538220)
 
 ## Tools and languages:
