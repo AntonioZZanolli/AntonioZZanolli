@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sigaway<br>🏡 I’m from Brazil, Santa Catarina.<br>📚 I’m currently learning about Java, JavaScript, React, CSS and HTML.<br>📤 2022 Goals: I want to Learn more and read more books about programming .
+🔭 I’m currently working on Sigaway<br>🏡 I’m from Brazil, Santa Catarina.<br>📚 I’m currently learning about Java, JavaScript, React, CSS and HTML.<br>📤 2023 Goals: I want to Learn more, make more projects and read more books about programming .
 
 
 ## 🌐 Socials:
